@@ -23,7 +23,7 @@ Data Link addresses are **physical**, and **they change at each hop** between de
 title: Very Important
 ```
 
-![Ethernet Frame FIelds](Ethernet%20Frame%20FIelds.png)
+![Ethernet Frame FIelds](https://github.com/Nikkofelis/Corso_IT_v2/blob/main/Z.%20Misc/Attachments/Ethernet%20Frame%20FIelds.png)
 
 - Preamble and Start Frame Delimiter (SFD): Respectively 7 and 1 bytes
 - Destination MAC Address
