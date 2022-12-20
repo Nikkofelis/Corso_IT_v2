@@ -1,4 +1,4 @@
-#practice #tosync
+#practice
 
 You need to be either administrator or member of the RDP group.
 

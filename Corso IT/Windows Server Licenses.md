@@ -1,4 +1,4 @@
-#tosync #theory
+#theory
 
 - **Essential**: No virtual machine, per Server (max 25 users), max RAM GB
 - **Standard**: Max 2 vm, per 16 core + CAL, max RAM 24 TB

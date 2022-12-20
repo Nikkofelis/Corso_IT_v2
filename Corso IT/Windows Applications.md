@@ -1,5 +1,3 @@
-#tosync 
-
 - [Event Viewer](Event%20Viewer.md)
 - [Windows Terminal](Windows%20Terminal.md)
 - [Task Scheduler](Task%20Scheduler.md)

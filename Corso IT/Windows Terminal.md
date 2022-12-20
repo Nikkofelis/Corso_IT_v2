@@ -1,5 +1,3 @@
-#tosync 
-
 # Prompt
 
 - **Absolute Path**: Start from the root directory (`C:\Users\user\`)

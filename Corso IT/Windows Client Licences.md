@@ -1,4 +1,3 @@
-#tosync 
 - **Home**: private clients
 - **Professional**: small, medium companies
 - **Enterprise**: big companies
