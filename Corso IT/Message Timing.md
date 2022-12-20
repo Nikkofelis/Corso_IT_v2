@@ -1,0 +1,3 @@
+- **Flow Control** - Determines the quantity of information that can be sent and how fast they can be provided.
+- **Response Timeout** - Specifies the time between responses and what actions to take in case of a timeout.
+- **Access method** - Determines when a user can send a message.

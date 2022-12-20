@@ -1,0 +1,1 @@
+Encoding or line encoding is a ==method of converting a stream of data bits into a predefined "code”==. Codes are groupings of bits used to provide a predictable pattern that can be recognized by both the sender and the receiver.

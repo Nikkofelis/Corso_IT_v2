@@ -1,0 +1,2 @@
+STP cables combine the techniques of shielding to counter EMI and RFI, and wire twisting to counter crosstalk.
+Compared to UTP cable, STP cable is significantly more expensive and difficult to install.

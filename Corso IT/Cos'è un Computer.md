@@ -1,0 +1,47 @@
+# Hardware
+
+- Case: contenimento e protezione dei componenti
+- Alimentatore (power supply unit): passa da corrente alternata a corrente continua
+- Connettori
+	- 20+4 pin -> [Scheda madre](Scheda%20madre.md)
+	- IDE/SATA -> dispositivi dati
+	- Molex -> hard disk
+	- Berg -> floppy disk
+	- Ausiliari: componenti extra
+	- USB interno
+- [Scheda madre](Scheda%20madre.md) (motherboard)
+	- Slot RAM
+	- Socket CPU
+	- Chipset: regola gli scambi di corrente tra i componenti
+	- Cmos: memorizza lo stato del BIOS
+	- Slot di espansione
+- [CPU](CPU.md)
+	- Pin grid array (PGA)
+	- Land grid array (LGA)
+- RAM: veloce ma temporanea
+	- DIMM
+	- SODIMM
+- ROM: firmware, non riscrivibile, determinata alla produzione
+- Disposizione
+	- Ventole (attiva)
+	- Dissipatore (passiva)
+	- Liquido
+- Schede di espansione
+	- Audio
+	- Video
+	- eSATA: espansione porte SATA
+	- Rete: network interface card
+	- PCI/PCIe: la lunghezza indica il volume di dati scambiati
+- Memorizzazione
+	- Disco rigido
+	- Unità ottica
+		- CD
+		- DVD
+		- Blue-ray
+	- SSD: solid state drive
+		- Standard
+		- M2
+	- Drive nastro
+- Porte e cavi
+- Dispositivi input/output
+

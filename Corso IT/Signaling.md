@@ -1,0 +1,1 @@
+The physical layer must generate the electrical, optical, or wireless signals that represent the "1" and "0" on the media. The way that bits are represented is called the **signaling method**. The physical layer standards ==must define what type of signal represents a "1" and what type of signal represents a "0"==.

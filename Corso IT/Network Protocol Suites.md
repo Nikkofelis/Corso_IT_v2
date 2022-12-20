@@ -1,0 +1,13 @@
+
+```ad-abstract
+A protocol suite is a group of inter-related protocols necessary to perform a communication function. Like TCP/IP or OSI.
+```
+
+| OSI Model                                    | TCI/IP         | Function and Protocol Suite                                                                                                                                                                                                                                                                                                                       | PDU                  |
+| -------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| - Application<br>- Presentation<br>- Session | Application    | - Name system ([DNS](Domain%20Name%20System.md))<br>- Host configuration ([DHCP](Dynamic%20Host%20Configuration%20Protocol.md), SLAAC)<br>- Email (SMTP, [POP3](Email%20Protocols.md), IMAP)<br>- File transfer ([FTP](File%20Transfer%20Protocol.md), SFTP, TFTP)<br>- Web Service ([HTTP](Hypertext%20Transfer%20Protocol%20(Secure).md), REST) | Data                 |
+| - Transport                                  | Transport      | - Connection-Oriented ([TCP](Transmission%20Control%20Protocol%20(TCP).md))<br>- Connectionless ([UDP](User%20Datagram%20Protocol%20(UDP).md))                                                                                                                                                                                                    | Segment              |
+| - Network                                    | Internet       | - Internet Protocol (IP, NAT)<br>- Messaging (ICMP)<br>- Routing Protocols (OSPF, EIGPR, BGP)                                                                                                                                                                                                                                                     | [Packet](Packets.md) |
+| - Data Link<br>- Physical                    | Network Access | - Address Resolution (ARP)<br>- Data Link Protocols (Ethernet, WLAN)                                                                                                                                                                                                                                                                              | [Frame](Frame.md)    |
+
+PhDaNeTSPA / NaITA

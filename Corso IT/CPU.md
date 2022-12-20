@@ -1,0 +1,4 @@
+- Risk: simple operations, faster, less energy
+- Cisk: complex operations, slower, more energy
+	- x86 (max 4 GB of memory)
+	- x64

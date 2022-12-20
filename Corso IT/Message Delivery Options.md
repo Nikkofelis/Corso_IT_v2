@@ -1,0 +1,3 @@
+- **Unicast**: Information is being transmitted to a single end device.
+- **Multicast**: Information is being transmitted to a one or more end devices.
+- **Broadcast**: Information is being transmitted to all end devices.

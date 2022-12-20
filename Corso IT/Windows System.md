@@ -1,0 +1,8 @@
+- [Windows Architecture](Windows%20Architecture.md)
+- [Hashing and Encryption](Hashing%20and%20Encryption.md)
+- [System Operations](System%20Operations.md)
+- [Environment Variables](Environment%20Variables.md)
+- [RAID](RAID.md)
+- [Backup](Backup.md)
+- [File Systems](File%20Systems.md)
+- [Windows Networking](Windows%20Networking.md)

@@ -1,0 +1,5 @@
+- [Message Encoding](Message%20Encoding.md): converts the message for transmission.
+- [Message Formatting and Encapsulation](Message%20Formatting%20and%20Encapsulation.md): identification of sender and receiver and layering of the message.
+- [Message Size](Message%20Size.md): scaling of the message for sending.
+- [Message Timing](Message%20Timing.md): flow control, response timeout and access method.
+- [Message Delivery Options](Message%20Delivery%20Options.md): unicast, multicast and broadcast.
