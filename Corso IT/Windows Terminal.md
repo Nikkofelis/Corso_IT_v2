@@ -74,8 +74,8 @@ The Parametres in .bat files must follow the symbol `%%`. NOT `%` as in the cmd.
 
 Done with **run** of the command `sconfig`.
 
-![Windows Server_sconfig_1](Windows%20Server_sconfig_1.png)
+![Windows Server_sconfig_1](https://github.com/Nikkofelis/Corso_IT_v2/blob/main/Z.%20Misc/Attachments/Windows%20Server_sconfig_1.png)
 
-![Windows Server_sconfig_2](Windows%20Server_sconfig_2.png)
+![Windows Server_sconfig_2](https://github.com/Nikkofelis/Corso_IT_v2/blob/main/Z.%20Misc/Attachments/Windows%20Server_sconfig_2.png)
 
 # PowerShell
